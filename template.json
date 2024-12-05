@@ -5,6 +5,10 @@
     "proper_name": "Blank",
     "author": "Infinite",
     "version": "1.0.0",
+    "compatible_versions": [
+    "1.1",
+    "1.0"
+    ],
     "contributors": [
     ],
     "deps": [],

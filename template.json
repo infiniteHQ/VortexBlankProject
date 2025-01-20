@@ -6,8 +6,6 @@
     "author": "Infinite",
     "version": "1.0.0",
     "compatible_versions": [
-        "1.2",
-    "1.1",
     "1.0"
     ],
     "contributors": [
@@ -15,5 +13,5 @@
     "deps": [],
     "tarball": "./base.tar.gz",
     "picture": "/assets/icon.png",
-    "description": "This is a module that allow the creation, manipulation, development & production of a toolchain"
+    "description": "This is a super sample projet !!!"
 }
